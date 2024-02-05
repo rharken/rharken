@@ -1,5 +1,7 @@
-### Hi there 👋
+# Rich Harken
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rharken&theme=radical&hide=html,javascript,shell,css,jupyter-notebook,makefile&layout=compact)](https://github.com/rharken/github-readme-stats)
+![Richs's GitHub stats](https://github-readme-stats.vercel.app/api?username=rharken&show_icons=true&theme=radical&hide_rank=true)
 <!--
 **rharken/rharken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
